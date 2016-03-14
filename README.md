@@ -1,5 +1,5 @@
 =================================================
-#COMMING SOON THE 2. VERSION !!!!
+#COMMING SOON THE 2.0 VERSION !!!!
 _________________________________________________
 #NOW IN THE GO PROGRAMMING LANGUAGE
 #--> KELVIN TO FAHRENHEIT
